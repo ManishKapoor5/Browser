@@ -1,0 +1,92 @@
+body{
+    display:grid;
+    margin: 0%;
+    
+}
+
+.nav{
+    background-color: rgb(45, 41, 41);
+    padding: 1%;
+    display: flex;
+}
+
+.colorbox{
+    display: flex;
+    margin-left: 5%;
+    width: 15vw;
+    height: 3vh;
+    padding: 1%;
+    background-color: rgb(37, 32, 32);
+}
+
+.Pink{
+    background-color: lightpink;
+    margin-right: 5%;
+    width: 30vw;
+    height: 3vh;
+}
+
+.Green{
+    background-color: lightgreen;
+    margin-right: 5%;
+    width: 30vw;
+    height: 3vh;
+}
+
+.Blue{
+    background-color: lightblue;
+    margin-right: 5%;
+    width: 30vw;
+    height: 3vh;
+}
+
+.Black{
+    background-color: black;
+    margin-right: 5%;
+    width: 30vw;
+    height: 3vh;
+}
+
+.sign{
+    padding: 1%;
+    margin-left: 3%;
+    font-size: medium;
+    background-color: rgb(37, 32, 32);;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    background-color:aliceblue;
+    justify-self: center;
+    margin-top: 10%;
+    width: 21%;
+    height: 40vh;
+}
+
+.prioritybar{
+    background-color: pink;
+    padding: 3%;
+}
+
+.normalbar{
+    background-color: red;
+    padding: 6%;
+}
+
+.lock{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 50%;
+}
+
+div>span>i{
+    color: aliceblue;
+    color:royalblue
+    font-size:larger;
+  
+}
+
+React is the best. you can create web apps, mobile apps and what not with this technology. Today, we will learn how to create a basic Hello world app with React Native.
+
+I use html and css. In html I most use span tag to give the content in same line and wrap all the span tag in div tag and gave them css. I have use the same approach for both 2nd and 3rd questions. For first I have followed the instruction
